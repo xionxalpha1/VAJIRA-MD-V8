@@ -10,6 +10,11 @@
             "description": "Type the Session-ID you got from scaning QR",
             "required": true,
             "value": "put session id here"
+        },
+    "MODE": {
+            "description": "Put button or nonbutton to change the mode",
+            "required": true,
+            "value": "button"
         }
     },
          "buildpacks": [
